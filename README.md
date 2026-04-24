@@ -83,10 +83,6 @@ dist\PortKiller.exe
 
 将 `icon.ico` 文件放置到项目根目录，重新打包即可。
 
-图标制作工具推荐：
-- https://www.icoconverter.com/
-- 推荐使用 256x256 或更大尺寸的PNG转换为ICO
-
 ### 调试模式
 
 如需查看错误信息，可以临时启用控制台：
