@@ -1,5 +1,9 @@
 # 端口进程杀手 (Port Killer)
 
+[![Latest Release](https://img.shields.io/github/v/release/herenpeng/port_killer)](https://github.com/herenpeng/port_killer/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/herenpeng/port_killer/total)](https://github.com/herenpeng/port_killer/releases)
+[![License](https://img.shields.io/github/license/herenpeng/port_killer)](https://github.com/herenpeng/port_killer/blob/main/LICENSE)
+
 一个基于Python和Tkinter的图形化工具，用于查找并杀死占用指定端口的进程。
 
 ## 功能特性
